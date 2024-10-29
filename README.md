@@ -17,3 +17,12 @@ The data cleaning process involved several key steps:
 - **Numeric Formatting**: Standardized number formats for quantity, sales, and profit columns for consistency and readability.
 - **Missing Values**: Handled missing values by (described the method, e.g., removing, filling, or imputing data).
 - **Outlier Detection**: Identified and managed outliers in sales and profit figures to ensure accuracy.
+
+## Conclusion
+The analysis revealed critical insights, including:
+
+- **High-Performing Product Categories**: Identified top categories and seasonal trends that impact sales.
+- **Profitability Variations**: Observed differences in profitability across different months.
+
+This information can support strategic decisions around product stocking, promotional periods, and pricing adjustments.
+
